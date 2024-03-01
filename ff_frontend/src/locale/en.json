@@ -1,0 +1,32 @@
+{
+    "translation": {
+      "header": {
+        "title": "User Form Application",
+        "revisited": "Revisited"
+      },
+      "form": {
+        "titleForm": "Please introduce your infromation!",
+        "nameText": "Name: ",
+        "namePlaceholder": "name here",
+        "surnameText": "Surname: ",
+        "surnamePlaceholder": "surname here",
+        "countriesText": "Countries: ",
+        "countriesPlaceholder": "Countries",
+        "birthdayText": "Birthday: ",
+        "save": "Save",
+        "loading": "Saving...",
+        "greeting": "Hello {{name}} from {{country}}. On {{day}} of {{month}} you will be {{year}}",
+        "greetingYears": " years!",
+        "greetingMonths": " months!",
+        "greetingDays": " days!"
+      },
+      "list": {
+        "title": "Previous Users added",
+        "name": "Name",
+        "country": "Country",
+        "birthday": "Birthday"
+      },
+      "notPermited": "You are not permited to go to the Revisited page."
+    }
+}
+  

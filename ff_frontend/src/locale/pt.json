@@ -1,0 +1,31 @@
+{
+    "translation": {
+      "header": {
+        "title": "Aplicativo de formulário de usuário",
+        "revisited": "Revisitar"
+      },
+      "form": {
+        "titleForm": "Por favor introduza a sua informação!",
+        "nameText": "Nome: ",
+        "namePlaceholder": "aqui nome",
+        "surnameText": "Apelido: ",
+        "surnamePlaceholder": "aqui apelido",
+        "countriesText": "País: ",
+        "countriesPlaceholder": "País",
+        "birthdayText": "Nascimento: ",
+        "save": "Guardar",
+        "loading": "A Guardar...",
+        "greeting": "Olá {{name}} de {{country}}. No dia {{day}} do mês {{month}} vais ter {{year}}",
+        "greetingYears": " anos!",
+        "greetingMonths": " meses!",
+        "greetingDays": " dias!"
+      },
+      "list": {
+        "title": "Usuários introduzidos anteriormente",
+        "name": "Nome",
+        "country": "País",
+        "birthday": "Date de nascimento"
+      },
+      "notPermited": "Você não tem permissão para aceder à página Revisitado."
+    }
+}

@@ -1,0 +1,66 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 30%;
+    flex: 1;
+    position: relative;
+    padding: 10px;
+}
+
+.formContainer h2 {
+    display: flex;
+    text-align: start;
+}
+
+.formColumnRow {
+    display: flex;
+    width: 100%;
+    height: 2em;
+    margin-bottom: .5em;
+    border-bottom: 1px solid #CCC;
+}
+
+.formText {
+    display: flex;
+    align-items: flex-end;
+    width: 100px;
+    justify-content: flex-start;
+}
+
+.formInput {
+    display: flex;
+    width: 100%;
+    border: none;
+    align-items: end;
+}
+
+.btn {
+    background-color: #1A8918;
+    color: #FFF;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 120px;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.btn:hover {
+    background-color: #0F730C;
+    color: #FFF;
+}
+
+.btn:disabled {
+    background-color: #CCC;
+}
+
+.greetings {
+    display: flex;
+    width: fit-content;
+    padding: 5px;
+    align-self: center;
+    background-color: rgb(246, 255, 231);
+}

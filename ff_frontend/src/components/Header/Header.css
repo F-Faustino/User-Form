@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid #CCC;
+}
+
+.title {
+    align-self: center;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.page {
+    align-self: center;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #000;
+}
+
+.options {
+    display: flex;
+    flex-direction: row;
+}
+
+.language_option {
+    margin-left: 10px;
+    border-width: 5px;
+    padding: 5px;
+    font-size: medium;
+    border: 2px solid rgb(164, 20, 87);
+    color: #000;
+    cursor: pointer
+}
+
+.selected {
+    background-color: rgb(164, 20, 87);
+    color: #FFF;
+}

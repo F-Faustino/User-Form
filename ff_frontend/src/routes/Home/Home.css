@@ -1,0 +1,7 @@
+.home_container {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+  justify-content: center;
+}
